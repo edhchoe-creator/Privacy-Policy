@@ -37,5 +37,5 @@ Changes to This Policy
 We may update this policy from time to time. We will notify you of any changes by posting the new policy on this page.
 
 Contact Us
-If you have any questions about this Privacy Policy, please contact us at smarted119@gmail.com.
+If you have any questions about this Privacy Policy, please contact us at edhchoe50@gmail.com.
 
