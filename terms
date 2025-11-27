@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Use (EULA) – CountDownReady</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+                Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+            margin: 40px auto;
+            max-width: 900px;
+            line-height: 1.6;
+            padding: 0 16px;
+            color: #222;
+        }
+        h1, h2, h3 {
+            color: #000;
+        }
+        a { color: #0066cc; }
+    </style>
+</head>
+<body>
+
+<h1>Terms of Use (EULA)</h1>
+<p><strong>Last updated:</strong> January 2025</p>
+
+<p>
+Thank you for using <strong>CountDownReady</strong>. These Terms of Use (“Terms”) govern your use of the
+CountDownReady mobile application (“App”), owned and operated by Edward Choe (“we”, “our”, or “us”).
+By downloading, accessing, or using the App, you agree to be bound by these Terms.
+If you do not agree, please do not use the App.
+</p>
+
+<hr>
+
+<h2>1. Subscription & Payment</h2>
+<p>
+CountDownReady offers optional auto-renewable premium subscriptions.  
+By subscribing, you agree that:
+</p>
+<ul>
+    <li>Payment will be charged to your Apple ID account at confirmation of purchase.</li>
+    <li>Your subscription automatically renews unless canceled at least 24 hours before the renewal date.</li>
+    <li>Your account will be charged for renewal within 24 hours prior to the end of the current period.</li>
+    <li>You can manage or cancel your subscription in your <strong>App Store account settings</strong> at any time.</li>
+    <li>Refunds are handled directly by Apple via App Store policies.</li>
+</ul>
+
+<hr>
+
+<h2>2. Restore Purchases</h2>
+<p>
+If you reinstall the App or switch devices, you may restore previously purchased subscriptions or upgrades using the <strong>“Restore Purchases”</strong> option within the App.
+</p>
+
+<hr>
+
+<h2>3. Acceptable Use</h2>
+<p>You agree not to:</p>
+<ul>
+    <li>Reverse engineer, decompile, or attempt to extract the App’s source code.</li>
+    <li>Use the App for unlawful purposes.</li>
+    <li>Distribute unauthorized copies or create derivative works of the App.</li>
+</ul>
+
+<hr>
+
+<h2>4. Ownership</h2>
+<p>
+All content, code, features, and intellectual property within CountDownReady are
+owned by Edward Choe. You are granted a limited, non-transferable license to use the App
+in accordance with these Terms.
+</p>
+
+<hr>
+
+<h2>5. Data & Privacy</h2>
+<p>
+Your privacy is important. Please review our full Privacy Policy for details:
+<br>
+<a href="https://edhchoe-creator.github.io/privacy.html">Privacy Policy</a>
+</p>
+
+<hr>
+
+<h2>6. Apple End User License Agreement</h2>
+<p>
+In addition to these Terms, your use of the App is also subject to Apple’s standard
+End User License Agreement (EULA), available here:
+<br>
+<a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">
+Apple Standard EULA
+</a>
+</p>
+
+<hr>
+
+<h2>7. Disclaimer of Warranty</h2>
+<p>
+The App is provided “as is” without warranties of any kind. We do not guarantee
+that the App will be error-free, uninterrupted, or available at all times.
+</p>
+
+<hr>
+
+<h2>8. Limitation of Liability</h2>
+<p>
+To the maximum extent permitted by law, we are not liable for any damages arising from the use or inability to use the App.
+</p>
+
+<hr>
+
+<h2>9. Changes to Terms</h2>
+<p>
+We may update these Terms from time to time. Continued use of the App constitutes acceptance of the updated Terms.
+</p>
+
+<hr>
+
+<h2>10. Contact Information</h2>
+<p>
+If you have any questions about these Terms, you may contact us at:
+<br>
+<strong>Email:</strong> edhchoe50@gmail.com
+</p>
+
+</body>
+</html>
